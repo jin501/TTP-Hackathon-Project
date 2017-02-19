@@ -21,3 +21,4 @@
 
 en:
   hello: "Hello world"
+  unauthorized: "You need to sign up for an account"
